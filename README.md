@@ -1,8 +1,8 @@
-#
+## Hey, I am Mohammeed
 🔥 About Me 🎓 BS in Computer Science | Qatar University | Cybersecurity Concentration<br>💻 Freelance API Developer | Building secure & high-performance APIs<br>🏆 Dean’s List | Qatar National Scientific Research Award | 3rd Place – Qatar National Powerlifting Competition<br>🎤 Presenter | Cybersecurity & AI Enthusiast | Love sharing knowledge!<br><br>🛠️ Tech Stack<br>🚀 Languages: Go, C#, C++, Java, Python, JavaScript, HTML, CSS, SQL<br>⚡ Tools & Tech: API Development, JavaFX, Penetration Testing, R Software<br>🖥️ OS: Windows | macOS | Linux<br><br>📚 Recent Projects<br>🔹 Web-Based Learning Management System – Secure LMS with authentication & course tracking<br>🔹 Penetration Testing Toolkit – Ethical hacking & security research with Kali Linux tools<br>🔹 Company Database System – JavaFX GUI for employee data management<br>🔹 Algorithm Analysis Research – Comparing divide-and-conquer vs greedy algorithms research<br><br>
 
 
-## 🌐 Socials:
+## 🌐 lets Connect:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/llopwa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/melnajjar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:xelnajjar@gmail.com) 
 
 # 💻 Tech Stack:
