@@ -1,5 +1,11 @@
 ## Hey, I am Mohammeed
-🔥 About Me 🎓 BS in Computer Science | Qatar University | Cybersecurity Concentration<br>💻 Freelance API Developer | Building secure & high-performance APIs<br>🏆 Dean’s List | Qatar National Scientific Research Award | 3rd Place – Qatar National Powerlifting Competition<br>🎤 Presenter | Cybersecurity & AI Enthusiast | Love sharing knowledge!<br><br>🛠️ Tech Stack<br>🚀 Languages: Go, C#, C++, Java, Python, JavaScript, HTML, CSS, SQL<br>⚡ Tools & Tech: API Development, JavaFX, Penetration Testing, R Software<br>🖥️ OS: Windows | macOS | Linux<br><br>📚 Recent Projects<br>🔹 Web-Based Learning Management System – Secure LMS with authentication & course tracking<br>🔹 Penetration Testing Toolkit – Ethical hacking & security research with Kali Linux tools<br>🔹 Company Database System – JavaFX GUI for employee data management<br>🔹 Algorithm Analysis Research – Comparing divide-and-conquer vs greedy algorithms research<br><br>
+am a Senior Computer Science student at Qatar University with a concentration in Cybersecurity. My work spans cybersecurity training, awareness, and practical security testing.
+
+As Lead Instructor for the National Cybersecurity Agency’s summer camp, I developed and delivered interactive sessions that introduced students to essential cybersecurity concepts in a simple, engaging way. I have also led awareness sessions for professionals in the finance sector, covering digital risk, cyber hygiene, and common threat scenarios.
+
+My technical background includes working in controlled lab environments with industry-standard tools.  I have also contributed to academic research on AI in non-STEM education, supporting data collection, analysis, and reporting.
+
+I am passionate about promoting cybersecurity knowledge and applying it to real-world challenges. I am open to opportunities across the cybersecurity field, from training and consulting to hands-on security operations.<br><br>
 
 
 ## 🌐 lets Connect:
